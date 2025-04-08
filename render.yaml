@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: brilink-ad-stream-hub
+    name: brilink-tv-new
     env: node
     buildCommand: npm run build
     startCommand: npm run preview

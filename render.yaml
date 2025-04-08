@@ -2,6 +2,7 @@ services:
   - type: web
     name: brilink-tv-new
     env: node
+    root: /app
     buildCommand: bun install && bun run build
     startCommand: bun run preview
     envVars:

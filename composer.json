@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": ">=7.4",
+    "codeigniter4/framework": "^4.0"
+  }
+}
